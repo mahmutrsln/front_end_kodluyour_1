@@ -1,0 +1,115 @@
+
+                
+@import url('http://fonts.cdnfonts.com/css/marienthal-personal-use');
+@font-face {
+    font-family: ClementePDac;
+    src: url('../fonts/ClementePDai-Regular.ttf');
+}
+
+@font-face {
+    font-family: ClementePDamBold;
+    src: url('../fonts/ClementePDam-Bold.ttf');
+}
+
+
+.navbar a {
+    font-size: 16px;
+    font-weight:100;
+    font-family: ClementePDac;
+    color:black;
+}
+
+
+.navbar{
+    padding: 0;
+}
+
+.navbar .logo{
+    font-size: 27px;
+    font-weight: 700;
+    color:rgb(197, 209, 85);
+    transform: translate(86, 280);
+}
+.header{
+  
+    background:rgb(242, 249, 173);
+    transform: translate(372, 227);
+}
+#header-navbar{
+    background-color:rgb(242, 249, 173);
+    
+}
+
+.bg-color{
+    background: #fff;
+    padding :30px 10px;
+}
+
+.bg-other{
+    background:rgb(242, 249, 173);
+    vertical-align: center;
+}
+
+.bag-icon{
+    background-color: #fff;
+    color: rgb(110, 121, 9) !important;
+    font-size: 20px;
+    stroke-width: 1.2px !important;
+}
+
+.bag-icon i {
+    font-size: 30px;
+    padding-right: 15px;
+}
+
+
+.men-text{
+    color: rgb(197, 209, 85);
+    font-size: 48px;
+    font-family: ClementePDamBold;
+    font-weight: 700;
+}
+
+h1.blazer-text{
+    font-family: 'Marienthal Personal Use', sans-serif;
+    font-size: 123px;
+    font-weight:600;
+    letter-spacing: 15px;
+}
+
+.blazer-text{
+    font-family: ClementePDac;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.icon-wrapper{
+    width: 29;
+    height: 94;
+   
+}
+
+.icon-wrapper i{
+    background-color:  rgb(221, 224, 168);
+    padding: 20px;
+}
+       
+.chevron-text{
+font-weight: 200;
+font-size: 29px;
+font-family:ClementePDac ;
+letter-spacing: 3px;
+padding: 0px 20px;
+}
+
+#photo1{
+    border-bottom-left-radius: 25px;
+    padding-right: 40px ;
+}
+#photo2{
+    float:right;
+    position:absolute;
+    right:10%;
+    border-bottom-right-radius: 25px;
+   
+}
